@@ -1,0 +1,13 @@
+
+div.summary.entry-summary.my-custom-product-template{
+    width:100%;
+    background:rgba(79, 69, 223, 0.4);
+    padding:15px;
+}
+ul.products li.product .price{
+    margin-bottom:2em;
+}
+.summary{
+    background:rgb(177,177,76,0.4);
+    padding:15px;
+}
